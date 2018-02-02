@@ -1,0 +1,27 @@
+{
+    "holidays":[
+        {"id":"1", "date":"26-01-2018", "day":"Friday", "holiday":"Republic Day", "state":"MH"},
+        {"id":"2", "date":"13-02-2018", "day":"Tuesday", "holiday":"Maha Shivratri", "state":"MH"},
+        {"id":"3", "date":"19-02-2018", "day":"Monday", "holiday":"Chhatrapati Shivaji Maharaj Jayanti", "state":"MH"},
+        {"id":"4", "date":"02-03-2018", "day":"Friday", "holiday":"Holi", "state":"MH"},
+        {"id":"5", "date":"29-03-2018", "day":"Thursday", "holiday":"Mahavir Jayanti", "state":"MH"},
+        {"id":"6", "date":"30-03-2018", "day":"Friday", "holiday":"Good Friday", "state":"MH"},
+        {"id":"7", "date":"01-04-2018", "day":"Sunday", "holiday":"Bank Holiday", "state":"MH"},
+        {"id":"8", "date":"14-04-2018", "day":"Saturday", "holiday":"Dr. Ambedkar Jayanti", "state":"MH"},
+        {"id":"9", "date":"30-04-2018", "day":"Monday", "holiday":"Buddha Pournima", "state":"MH"},
+        {"id":"10", "date":"01-05-2018", "day":"Tuesday", "holiday":"Maharashtra Day", "state":"MH"},
+        {"id":"11", "date":"16-06-2018", "day":"Saturday", "holiday":"Id-ul-Fitr", "state":"MH"},
+        {"id":"12", "date":"15-08-2018", "day":"Wednesday", "holiday":"Independence Day", "state":"MH"},
+        {"id":"13", "date":"17-08-2018", "day":"Friday", "holiday":"Parsi New Year", "state":"MH"},
+        {"id":"14", "date":"22-08-2018", "day":"Wednesday", "holiday":"Id-ul-Juha", "state":"MH"},
+        {"id":"15", "date":"13-09-2018", "day":"Thursday", "holiday":"Ganesh Chaturthi", "state":"MH"},
+        {"id":"16", "date":"20-09-2018", "day":"Thursday", "holiday":"Muharram", "state":"MH"},
+        {"id":"17", "date":"02-10-2018", "day":"Tuesday", "holiday":"Mahatma Gandhi Jyanti", "state":"MH"},
+        {"id":"18", "date":"18-10-2018", "day":"Thursday", "holiday":"Dusshera", "state":"MH"},
+        {"id":"19", "date":"07-11-2018", "day":"Wednesday", "holiday":"Deepavali (Laxmi Pujan)", "state":"MH"},
+        {"id":"20", "date":"08-11-2018", "day":"Thursday", "holiday":"Depavali Padva", "state":"MH"},
+        {"id":"21", "date":"21-11-2018", "day":"Wednesday", "holiday":"Id-e-Milad", "state":"MH"},
+        {"id":"22", "date":"23-11-2018", "day":"Friday", "holiday":"Guru Nanak Jayanti", "state":"MH"},
+        {"id":"23", "date":"25-12-2018", "day":"Tuesday", "holiday":"Christmas Day", "state":"MH"}
+    ]
+}
