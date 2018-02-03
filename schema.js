@@ -20,6 +20,7 @@ const Holiday = new GraphQLObjectType({
     })
 });
 
+
 // Root query
 const RootQuery = new GraphQLObjectType({
     name:'RootQueryType',
